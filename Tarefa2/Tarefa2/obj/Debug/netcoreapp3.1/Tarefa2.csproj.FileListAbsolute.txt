@@ -1,0 +1,13 @@
+C:\Users\Nuno Alex\Desktop\Tarefa2\Tarefa2\bin\Debug\netcoreapp3.1\Tarefa2.exe
+C:\Users\Nuno Alex\Desktop\Tarefa2\Tarefa2\bin\Debug\netcoreapp3.1\Tarefa2.deps.json
+C:\Users\Nuno Alex\Desktop\Tarefa2\Tarefa2\bin\Debug\netcoreapp3.1\Tarefa2.runtimeconfig.json
+C:\Users\Nuno Alex\Desktop\Tarefa2\Tarefa2\bin\Debug\netcoreapp3.1\Tarefa2.runtimeconfig.dev.json
+C:\Users\Nuno Alex\Desktop\Tarefa2\Tarefa2\bin\Debug\netcoreapp3.1\Tarefa2.dll
+C:\Users\Nuno Alex\Desktop\Tarefa2\Tarefa2\bin\Debug\netcoreapp3.1\Tarefa2.pdb
+C:\Users\Nuno Alex\Desktop\Tarefa2\Tarefa2\obj\Debug\netcoreapp3.1\Tarefa2.csprojAssemblyReference.cache
+C:\Users\Nuno Alex\Desktop\Tarefa2\Tarefa2\obj\Debug\netcoreapp3.1\Tarefa2.csproj.CoreCompileInputs.cache
+C:\Users\Nuno Alex\Desktop\Tarefa2\Tarefa2\obj\Debug\netcoreapp3.1\Tarefa2.AssemblyInfoInputs.cache
+C:\Users\Nuno Alex\Desktop\Tarefa2\Tarefa2\obj\Debug\netcoreapp3.1\Tarefa2.AssemblyInfo.cs
+C:\Users\Nuno Alex\Desktop\Tarefa2\Tarefa2\obj\Debug\netcoreapp3.1\Tarefa2.dll
+C:\Users\Nuno Alex\Desktop\Tarefa2\Tarefa2\obj\Debug\netcoreapp3.1\Tarefa2.pdb
+C:\Users\Nuno Alex\Desktop\Tarefa2\Tarefa2\obj\Debug\netcoreapp3.1\Tarefa2.genruntimeconfig.cache
