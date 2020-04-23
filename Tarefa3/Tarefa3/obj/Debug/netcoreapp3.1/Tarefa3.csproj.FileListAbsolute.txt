@@ -1,0 +1,13 @@
+C:\Users\Nuno Alex\source\repos\Tarefa3\Tarefa3\bin\Debug\netcoreapp3.1\Tarefa3.exe
+C:\Users\Nuno Alex\source\repos\Tarefa3\Tarefa3\bin\Debug\netcoreapp3.1\Tarefa3.deps.json
+C:\Users\Nuno Alex\source\repos\Tarefa3\Tarefa3\bin\Debug\netcoreapp3.1\Tarefa3.runtimeconfig.json
+C:\Users\Nuno Alex\source\repos\Tarefa3\Tarefa3\bin\Debug\netcoreapp3.1\Tarefa3.runtimeconfig.dev.json
+C:\Users\Nuno Alex\source\repos\Tarefa3\Tarefa3\bin\Debug\netcoreapp3.1\Tarefa3.dll
+C:\Users\Nuno Alex\source\repos\Tarefa3\Tarefa3\bin\Debug\netcoreapp3.1\Tarefa3.pdb
+C:\Users\Nuno Alex\source\repos\Tarefa3\Tarefa3\obj\Debug\netcoreapp3.1\Tarefa3.csprojAssemblyReference.cache
+C:\Users\Nuno Alex\source\repos\Tarefa3\Tarefa3\obj\Debug\netcoreapp3.1\Tarefa3.csproj.CoreCompileInputs.cache
+C:\Users\Nuno Alex\source\repos\Tarefa3\Tarefa3\obj\Debug\netcoreapp3.1\Tarefa3.AssemblyInfoInputs.cache
+C:\Users\Nuno Alex\source\repos\Tarefa3\Tarefa3\obj\Debug\netcoreapp3.1\Tarefa3.AssemblyInfo.cs
+C:\Users\Nuno Alex\source\repos\Tarefa3\Tarefa3\obj\Debug\netcoreapp3.1\Tarefa3.dll
+C:\Users\Nuno Alex\source\repos\Tarefa3\Tarefa3\obj\Debug\netcoreapp3.1\Tarefa3.pdb
+C:\Users\Nuno Alex\source\repos\Tarefa3\Tarefa3\obj\Debug\netcoreapp3.1\Tarefa3.genruntimeconfig.cache
