@@ -1,0 +1,39 @@
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Tarefa1\Tarefa1\bin\Debug\netcoreapp3.1\Tarefa1.exe
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Tarefa1\Tarefa1\bin\Debug\netcoreapp3.1\Tarefa1.deps.json
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Tarefa1\Tarefa1\bin\Debug\netcoreapp3.1\Tarefa1.runtimeconfig.json
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Tarefa1\Tarefa1\bin\Debug\netcoreapp3.1\Tarefa1.runtimeconfig.dev.json
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Tarefa1\Tarefa1\bin\Debug\netcoreapp3.1\Tarefa1.dll
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Tarefa1\Tarefa1\bin\Debug\netcoreapp3.1\Tarefa1.pdb
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Tarefa1\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.csprojAssemblyReference.cache
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Tarefa1\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.csproj.CoreCompileInputs.cache
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Tarefa1\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.AssemblyInfoInputs.cache
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Tarefa1\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.AssemblyInfo.cs
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Tarefa1\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.dll
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Tarefa1\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.pdb
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Tarefa1\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.genruntimeconfig.cache
+D:\Tarefa1\Tarefa1\bin\Debug\netcoreapp3.1\Tarefa1.exe
+D:\Tarefa1\Tarefa1\bin\Debug\netcoreapp3.1\Tarefa1.deps.json
+D:\Tarefa1\Tarefa1\bin\Debug\netcoreapp3.1\Tarefa1.runtimeconfig.json
+D:\Tarefa1\Tarefa1\bin\Debug\netcoreapp3.1\Tarefa1.runtimeconfig.dev.json
+D:\Tarefa1\Tarefa1\bin\Debug\netcoreapp3.1\Tarefa1.dll
+D:\Tarefa1\Tarefa1\bin\Debug\netcoreapp3.1\Tarefa1.pdb
+D:\Tarefa1\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.csprojAssemblyReference.cache
+D:\Tarefa1\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.csproj.CoreCompileInputs.cache
+D:\Tarefa1\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.AssemblyInfoInputs.cache
+D:\Tarefa1\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.AssemblyInfo.cs
+D:\Tarefa1\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.dll
+D:\Tarefa1\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.pdb
+D:\Tarefa1\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.genruntimeconfig.cache
+C:\Users\Nuno Alex\Desktop\Tarefa1\Tarefa1\bin\Debug\netcoreapp3.1\Tarefa1.exe
+C:\Users\Nuno Alex\Desktop\Tarefa1\Tarefa1\bin\Debug\netcoreapp3.1\Tarefa1.deps.json
+C:\Users\Nuno Alex\Desktop\Tarefa1\Tarefa1\bin\Debug\netcoreapp3.1\Tarefa1.runtimeconfig.json
+C:\Users\Nuno Alex\Desktop\Tarefa1\Tarefa1\bin\Debug\netcoreapp3.1\Tarefa1.runtimeconfig.dev.json
+C:\Users\Nuno Alex\Desktop\Tarefa1\Tarefa1\bin\Debug\netcoreapp3.1\Tarefa1.dll
+C:\Users\Nuno Alex\Desktop\Tarefa1\Tarefa1\bin\Debug\netcoreapp3.1\Tarefa1.pdb
+C:\Users\Nuno Alex\Desktop\Tarefa1\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.csprojAssemblyReference.cache
+C:\Users\Nuno Alex\Desktop\Tarefa1\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.csproj.CoreCompileInputs.cache
+C:\Users\Nuno Alex\Desktop\Tarefa1\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.AssemblyInfoInputs.cache
+C:\Users\Nuno Alex\Desktop\Tarefa1\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.AssemblyInfo.cs
+C:\Users\Nuno Alex\Desktop\Tarefa1\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.dll
+C:\Users\Nuno Alex\Desktop\Tarefa1\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.pdb
+C:\Users\Nuno Alex\Desktop\Tarefa1\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.genruntimeconfig.cache
