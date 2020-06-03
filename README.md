@@ -1,2 +1,2 @@
 # APAI
-Exercícios
+Exercícios e Teste
