@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/Nuno Alex/exercicio_1.db" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><current_tab id="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="1630"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="sqlite_sequence"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="PLAYER" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk=""><sort/><column_widths/><filter_values/><display_formats/><hidden_columns/><plot_y_axes/></table><table schema="main" name="items" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk=""><sort/><column_widths/><filter_values/><display_formats/><hidden_columns/><plot_y_axes/></table><table schema="main" name="jogador" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk=""><sort/><column_widths/><filter_values/><display_formats/><hidden_columns/><plot_y_axes/></table><table schema="main" name="sqlite_sequence" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk=""><sort/><column_widths/><filter_values/><display_formats/><hidden_columns/><plot_y_axes/></table><table schema="main" name="tipo_item" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk=""><sort/><column_widths/><filter_values/><display_formats/><hidden_columns/><plot_y_axes/></table></browse_table_settings></tab_browse><tab_sql><sql name="exercicio_1.sql">CREATE TABLE player(
+   id_PLAYER INTEGER PRIMARY KEY AUTOINCREMENT,
+   name VARCHAR(60) NOT NULL
+);
+
+CREATE TABLE type_item(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    type VARCHAR (60) NOT NULL
+);
+
+CREATE TABLE items (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name_item VARCHAR(60) NOT NULL,
+    quantity INTEGER NULL,
+    type_item VARCHAR(60) NOT NULL,
+    id_player INTEGER NOT NULL,
+    FOREIGN KEY (id_player) REFERENCES player(id_player),
+    FOREIGN KEY (type_item) REFERENCES type_item(id)
+);
+</sql><current_tab id="0"/></tab_sql></sqlb_project>
